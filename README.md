@@ -1,4 +1,4 @@
-zenit-rendering-and-physics-engine
+# zenit-rendering-and-physics-engine
 
-A C++ graphics engine using OpenGL.
+Graphics engine written in C++.
 It is made in Poland. ;3
